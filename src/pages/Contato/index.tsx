@@ -1,6 +1,6 @@
-import './App.css'
+import './syles.css'
 
-function App() {
+function Contato() {
     return (
         <div id="container">
             <nav id="menu">
@@ -16,4 +16,4 @@ function App() {
     )
 }
 
-export default App
+export default Contato
